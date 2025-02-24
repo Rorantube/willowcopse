@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-campaign/"}
+{"dg-publish":true,"permalink":"/the-campaign/","tags":["gardenEntry"]}
 ---
 
 ****
 **Opening Monologue**
-*You have a task: find the lost, and hunt the un-huntable. The Hunter's Guild in the nearby town has put out a bounty.* **(show/pass around included handout [[BOUNTY Handout.png]])** ![BOUNTY Handout.png](/img/user/Handouts/BOUNTY%20Handout.png)*Earlier, in the local tavern - The Drowned Cup*
+*You have a task: find the lost, and hunt the un-huntable. The Hunter's Guild in the nearby town has put out a bounty.* **(show/pass around included handout [[BOUNTY Handout.png]])** *Earlier, in the local tavern - The Drowned Cup*
 
 **Interaction**
 Characters present
@@ -15,7 +15,7 @@ There's a good chance your players will go to the bartender for information rega
 ***Nathaniel Bernal***
 A portly, older, possibly in his late 60's, gentleman. He has scars on his forearms, and is about 6'4" (1.9 m). He's tired, but always has a warm smile.
 
-He's loved by the community, and has gathered quite the reputation of being a kind man, whom the frequenter's of The Drowned Cup would defend.
+He's loved by the community, and has gathered quite the reputation of being a kind man, whom the frequenter's of The Drowned Cup would defend, if the need arose.
 
 
 **Patrons -**
@@ -51,3 +51,44 @@ The Sign
 - Made of some kind of black or painted, hammered metal
 
 ****
+*You go to open the door and it is locked shut, of course. You hear a voice from behind you, making you all jump. He says:* "Halt, what business do you have with a closed store?"
+
+The party may have a conversation with the hooded figure. He is a member of the Hunter's Guild, and has a key, but must be convinced to let the party in. Persuasion DC10.
+
+If/when successful,
+*The hooded man lowers his hood and inserts the key into to door, and opens it. He leads you through a maze of shelves stacked high with magic items, potions, and books.*
+
+If a player attempts to steal something,
+*The hooded man turns to you and says,* "I... wouldn't steal from Matilda. She's got, uh... 'magic tripwires' all over the place. I tried to steal something once, when I was new here. Phew, Hell hath no fury, I can tell you that much." *He chuckles and turns back around, leading you through the store.*
+
+*Eventually, you make it to the back of the shop, where a space opens up. About 30ft across, and 40ft deep, with ceilings no more that 15ft high. A large hearth is lit on the far side of the room, illuminating the space, which's walls were stacked high with books, and mounted heads from creatures hunted. The floor was covered in large, colorful and comfortable looking bags, filled with some form of fluffy substance. There are a few people here, waiting.
+
+*The man leading you here steps in and hangs his cloak up on a coat rack.* "Sorry I'm late, friends. I was keeping an eye on these ones," *he gestures to you* "And lost track of time. Lets get started, shall we?"
+
+
+****
+**Interaction**
+
+**Character's present**
+
+**Guildmaster**
+This is the head of the guild. He escorted the party through the store.
+
+Chris Havenstride
+Current guild master of the Hunter's Guild. He is well respected by his peers, and has the highest successful hunt count (268 Hunts, though he would argue 269), second only to the previous guild master (307).
+
+**The other hunters**
+
+**Lo Stoutfal**
+A dwarven hunter. He has the most seniority in the guild (82 years), and is often a mentor to new members of the guild.
+
+**Norx* Hillarow**
+An elven hunter. She has the second most seniority in the guild (81 years), and is at odds with Lo in a (mostly) friendly competition.
+
+\*pronounced Nor
+
+****
+
+*The hunters present all nod and pull out small notebooks.* "But first," the guildmaster turns to your party, "Lets introduce ourselves and get acquainted. My name is Chris Havenstride. The dwarf tending the fire is Lo, the elf giving him dirty looks in Norx, **COME BACK TO THIS**. May we have your names?"
+
+Allow the party to introduce themselves to the gathered hunters.
