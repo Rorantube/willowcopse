@@ -91,4 +91,9 @@ An elven hunter. She has the second most seniority in the guild (81 years), and 
 
 *The hunters present all nod and pull out small notebooks.* "But first," the guildmaster turns to your party, "Lets introduce ourselves and get acquainted. My name is Chris Havenstride. The dwarf tending the fire is Lo, the elf giving him dirty looks in Norx, **COME BACK TO THIS**. May we have your names?"
 
-Allow the party to introduce themselves to the gathered hunters.
+Allow the party to introduce themselves to the gathered hunters. Ask your players if they would like to introduce the reason they're here (the bounty).
+
+If your players introduce the bounty
+*The members blink in suprise.* 
+(Lo) "Wow, l'right. 'Aven't had someone ballsy enough t' try and take that in a *while*, eh, pointy?"
+(Norx) "No, no one in at least a year. An- Hey! Don't call me pointy! That-" *The squabble continues in the background*
