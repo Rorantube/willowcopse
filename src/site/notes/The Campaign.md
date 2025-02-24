@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-campaign/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-campaign/"}
 ---
 
 ****
 **Opening Monologue**
-*You have a task: find the lost, and hunt the un-huntable. The Hunter's Guild in the nearby town has put out a bounty.* **(show/pass around included handout [[BOUNTY Handout.png]])** *Earlier, in the local tavern - The Drowned Cup*
+*You have a task: find the lost, and hunt the un-huntable. The Hunter's Guild in the nearby town has put out a bounty.* **(show/pass around included handout [[BOUNTY Handout.png]])** ![BOUNTY Handout.png](/img/user/Handouts/BOUNTY%20Handout.png)*Earlier, in the local tavern - The Drowned Cup*
 
 **Interaction**
 Characters present
@@ -49,3 +49,5 @@ The Lamp
 - (DC16) Embossed on the glass of the lamp is the faint sigil of the Hunter's guild
 The Sign
 - Made of some kind of black or painted, hammered metal
+
+****
